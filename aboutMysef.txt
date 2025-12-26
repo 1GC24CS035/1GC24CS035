@@ -1,8 +1,0 @@
-Title: Mr
-Full Name: Harsha
-USN: 1GC24CS035
-Semester: Third
-Section: A
-Branch: Computer Science
-Year of Admission: 2024
-College Name: GCE
